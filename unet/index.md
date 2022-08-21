@@ -1,4 +1,4 @@
-# Welcome to UnetOS ![alt text for screen readers](logo.png "Logo Of lithicsoft")
+# Welcome to UnetOS
 ### A free operating system
 ###### Copyright (c) 2019 - 2022 Lithicsoft Inc
 
