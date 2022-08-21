@@ -1,4 +1,4 @@
-# Welcome To Lithicsoft Inc
+# Lithicsoft Inc
 
 # 🌏 At Lithicsoft, we’re a global community of
 > technologists
