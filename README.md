@@ -1,2 +1,2 @@
-# lithicsoft.github.io
+# Lithicsoft Inc
 Website for Lithicsoft
