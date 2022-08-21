@@ -1,8 +1,8 @@
 # Welcome To Lithicsoft Inc
 # 🌏 At Lithicsoft, we’re a global community of
-> technologists \
+> technologists
 
-> thinkers \
+> thinkers
 
 > builders
 # 🐋 Pronouns
