@@ -1,4 +1,3 @@
-## Lithicsoft Inc
 # Welcome To Lithicsoft Inc
 # 🌍 Origin
 Coming Soon™
