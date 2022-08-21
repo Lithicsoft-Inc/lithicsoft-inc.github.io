@@ -9,24 +9,15 @@ I’m a developer living in Switzerland (and a graphic designer). I have 6 repos
 My discord is ```kevadesu#9686```
 My revolt is ```@kevadesu```
 # 🔗 Links
-> [GitHub](https://github.com/kevadesu)
-
-> [YouTube](https://www.youtube.com/channel/UC7hWezGl7W5H31s0g6hKezA)
-
-> [Twitter](https://twitter.com/kevadesu_off)
-
-> [Carrd](https://kevadesu.carrd.co)
-
-> [osu!](https://osu.ppy.sh/users/16327892)
+> [GitHub](https://github.com/Lithicsoft-Inc)
 
 # 🖥️ Projects
-> [Minisurfer](https://minisurfer.weebly.com/)
+> [Unet Operating system](https://unet.lithicsoft.repl.co/)
 
-> [XianZaiOS](https://lintine.github.io/XianZaiOS/)
+> [Los (Lithicsoft Office Software)](https://los.lithicsoft.repl.co/)
 
-> [Sagasu](https://github.com/kevadesu/Sagasu) (Abandoned, STOP SHITTING ON IT!!!)
+> [North UI](https://github.com/Lithicsoft-Inc/NorthUI)
 
-> [Lintine](https://lintine.github.io/)
 
 
 
