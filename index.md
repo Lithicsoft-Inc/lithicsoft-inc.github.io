@@ -1,7 +1,7 @@
 # Welcome To Lithicsoft Inc
 # 🌏 At Lithicsoft, we’re a global community of
-> technologists
-> thinkers
+> technologists \
+> thinkers \
 > builders
 # 🐋 Pronouns
 I use any/any pronouns
