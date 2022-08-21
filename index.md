@@ -1,5 +1,5 @@
-# Hello!
-Welcome to my Website! Here you'll find infos about me and stuff.
+## Lithicsoft Inc
+# Welcome To Lithicsoft Inc
 # 🌍 Origin
 Coming Soon™
 # 🐋 Pronouns
