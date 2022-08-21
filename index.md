@@ -14,6 +14,6 @@ We are a small community that allows people to have free software, our ultimate 
 
 > [North UI](https://github.com/Lithicsoft-Inc/NorthUI)
 
-Talk to us at [Discord] (https://discord.gg/AZ9SmxeGgP)
+Talk to us at [Discord](https://discord.gg/AZ9SmxeGgP)
 
 Or our gmail - lithicsoft@gmail.com
